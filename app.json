@@ -17,7 +17,7 @@
     {
       "url": "(https://github.com/xkrishmishra/Ukrish/heroku-buildpack-ffmpeg-latest.git)"
     }
-  ],
+},
   "env": {
     "api_id": {
       "description": "Collect this value from (link unavailable) and do not share it with anyone.",
