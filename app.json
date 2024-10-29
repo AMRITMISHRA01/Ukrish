@@ -10,7 +10,7 @@
     "productivity"
   ],
   "repository": "(https://github.com/xkrishmishra/Ukrish)",
-  "buildpacks": [
+  "buildpacks": "[https://github.com/xkrishmishra/Ukrish/heroku-buildpack-ffmpeg-latest.git]"
     {
       "url": "heroku/python"
     },
